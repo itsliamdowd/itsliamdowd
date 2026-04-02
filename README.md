@@ -1,8 +1,8 @@
 # Liam Dowd
 
 - 🎓 **Northeastern University**
-- **Major:** Computer Science and Business Administration
-- **Contact Me:**
+- 💻 **Major:** Computer Science and Business Administration
+- ✉️ **Contact Me:**
 
 Languages:
 
