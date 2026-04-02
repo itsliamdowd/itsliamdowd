@@ -2,7 +2,7 @@
 
 - 🎓 **Northeastern University**
 - 💻 **Major:** Computer Science and Business Administration
-- ✉️ **Contact Me:**
+- ✉️ **Contact Me:** https://www.linkedin.com/in/liam-j-dowd/
 
 Languages:
 
